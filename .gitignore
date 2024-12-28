@@ -1,3 +1,8 @@
+Part_2_2/*.html
+
+.venv
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
